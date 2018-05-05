@@ -1,0 +1,8 @@
+{
+    "tpl": {
+        "san": {
+            "url": "https://github.com/FatDoge/san-temp-normal.git",
+            "branch": "master"
+        }
+    }
+}

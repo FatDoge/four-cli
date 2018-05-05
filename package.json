@@ -1,0 +1,32 @@
+{
+  "name": "four-cli",
+  "version": "1.0.0",
+  "description": "🛠️ CLI for rapid san vue angular react development",
+  "main": "index.js",
+  "bin": {
+    "four": "bin/four"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatDoge/four-cli.git"
+  },
+  "keywords": [
+    "four-cli"
+  ],
+  "author": "fatdoge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatDoge/four-cli/issues"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "user": "0.0.0"
+  },
+  "homepage": "https://github.com/FatDoge/four-cli#readme"
+}
